@@ -1,0 +1,17 @@
+body {
+	margin: 7px;
+    font-family: "Century Gothic", sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #000000;
+    background-color: #fff;
+}
+label {
+	margin: 12px;
+}
+input {
+	margin: 10px;
+}
+button {
+	margin: 3px;
+}
